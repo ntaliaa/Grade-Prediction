@@ -1,1 +1,2 @@
-# Grade-Prediction
+# Grade Prediction
+The study focuses on predicting student performance in Mathematics using data mining algorithms such as Naive Bayes, Random Forest, Linear Regression, and K-Nearest Neighbors. By utilizing a dataset containing academic, demographic, and behavioral attributes of students, the study evaluates the effectiveness of these algorithms in grade prediction. The Random Forest algorithm typically achieves the highest accuracy, highlighting the usefulness of data mining for early intervention and support for students facing difficulties. Predicting future performance can assist educators and parents in implementing personalized support interventions.
